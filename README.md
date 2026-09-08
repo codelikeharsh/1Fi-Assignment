@@ -3,6 +3,8 @@
 A "1Fi Marketplace" tab added to the Shop page, alongside the existing (intentionally
 blank) "Top Brands" and "Nearby Stores" tabs, per the assignment brief.
 
+**Live demo:** [1-fi-assignment-sepia.vercel.app](https://1-fi-assignment-sepia.vercel.app/) — deployed on Vercel so it's viewable without a local setup; jump straight to [/shop](https://1-fi-assignment-sepia.vercel.app/shop) for the Marketplace tab.
+
 ## Stack, and why
 
 The assignment asked to match the existing 1Fi app's stack, but didn't provide the
