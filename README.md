@@ -1,4 +1,4 @@
-# 1Fi Marketplace — SDE Intern Assignment
+# 1Fi Marketplace SDE Intern Assignment
 
 A "1Fi Marketplace" tab added to the Shop page, alongside the existing (intentionally
 blank) "Top Brands" and "Nearby Stores" tabs, per the assignment brief.
@@ -45,13 +45,11 @@ Open [http://localhost:3000](http://localhost:3000) — it redirects straight to
   structure; the four tabs outside Shop are simple placeholders since they're out
   of scope for this assignment
 
-## A known gap, called out rather than hidden
+## A known gap I wanna call out
 
 The brief references "reference screens" and "exact product/content requirements"
 as attached material that was never actually included with the assignment email —
 only the 3-page PDF arrived. I flagged this with Vaibhav directly. Absent that
 content, the product categories (electronics, travel, auto, jewelry) and the six
 mock products in `lib/data/products.ts` are my own reasonable placeholders, chosen
-to match the real Shop page's "Top Brands" list and hero art. If the real reference
-content turns up, only `lib/data/products.ts` needs to change — everything else
-reads from that layer dynamically.
+to match the real Shop page's "Top Brands" list and hero art.  only `lib/data/products.ts` needs to change to add or remove any product.
